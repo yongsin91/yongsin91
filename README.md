@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm yong sin</h1>
 <h3 align="center">An aspiring data scientist</h3>
 
-- 🔭 I’m currently working on [fightdet](github/yongsin91/Fightdet)
+- 🔭 I’m currently working on [fightdet-Autonomous Violence Detection Model](github/yongsin91/Fightdet)
 
 - 👨‍💻 All of my projects are available at [github.com/yongsin91](github.com/yongsin91)
 
