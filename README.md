@@ -12,7 +12,7 @@ I took a leap of faith to quit my previous job as a project engineer, and decide
 - 📄 If you're interested to know more about my experiences, please refer to [linkedin.com/in/yongsin91](linkedin.com/in/yongsin91) or [troopl.com/yongsin91](troopl.com/yongsin91)
 
 ## Completed Project  
-[Fightdet - Autonomous Violence Detection Model](github.com/Chewgithub/Fightdet)  
+[Fightdet - Autonomous Violence Detection Model](../../../../Chewgithub/Fightdet)  
 - This study is inspired by the works of Cheng, Ming (Github) and Cai, Kunjing and Li, Ming's work in RWF-2000: An Open Large Scale Video Database in 2019. Further exploration based on their study is conducted by testing on several different models, with different channels and optimizers. The goal of this project is to build a feasible model and deploy it into production.  
 - This model is designed intentionally to help out for flagging violence activity in CCTV. It is able to reach 84% accuracy with 5 second processing time.  
 - The sample model website can be accessed through this link ([Fightdet Sample Interface](https://fightdet-app-gf34ldcmyq-de.a.run.app/))
