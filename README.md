@@ -5,8 +5,6 @@ I took a leap of faith to quit my previous job as a project engineer, and decide
 
 - 🔭 I’ve just finished my project on the NYC Taxi Fare Prediction Challenge at [Kaggle](https://www.kaggle.com/competitions/new-york-city-taxi-fare-prediction), currently trying to finish a Udemy Tableau short course.
 
-- 👨‍💻 All of my projects are available at [github.com/yongsin91](github.com/yongsin91)
-
 - 📫 Please do not hesitate to contact me **yongsin91@hotmail.com** if there's anything that we could discuss on.
 
 - 📄 If you're interested to know more about my experiences, please refer to [linkedin.com/in/yongsin91](linkedin.com/in/yongsin91) or [troopl.com/yongsin91](troopl.com/yongsin91)
