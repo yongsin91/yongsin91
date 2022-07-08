@@ -7,7 +7,7 @@ I took a leap of faith to quit my previous job as a project engineer, and decide
 
 - 📫 Please do not hesitate to contact me **yongsin91@hotmail.com** if there's anything that we could discuss on.
 
-- 📄 If you're interested to know more about my experiences, please refer to [linkedin.com/in/yongsin91](linkedin.com/in/yongsin91) or [troopl.com/yongsin91](troopl.com/yongsin91)
+- 📄 If you're interested to know more about my experiences, please refer to [linkedin.com/in/yongsin91](http://www.linkedin.com/in/yongsin91) or [troopl.com/yongsin91](http://www.troopl.com/yongsin91)
 
 ## Completed Project  
 [Fightdet - Autonomous Violence Detection Model](../../../../Chewgithub/Fightdet)  
