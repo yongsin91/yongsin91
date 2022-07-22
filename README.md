@@ -3,7 +3,7 @@
 ## Data scientist | Data analyst 
 I took a leap of faith to quit my previous job as a project engineer, and decided to be change I want to be. I took a 9 weeks intensive bootcamp by Le Wagon, and now I am an aspiring data scientist. I do believe with my current skillset coupled with my past knowledge, I'll be giving a greater impact to our society! 
 
-- 🔭 I’ve just finished my project on the NYC Taxi Fare Prediction Challenge at [Kaggle](https://www.kaggle.com/competitions/new-york-city-taxi-fare-prediction), currently trying to finish a Udemy Tableau short course.
+- 🔭 I’ve just finished a Udemy Tableau short course, currently doing my 2nd Kaggle Challenge.
 
 - 📫 Please do not hesitate to contact me **yongsin91@hotmail.com** if there's anything that we could discuss on.
 
