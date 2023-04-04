@@ -57,5 +57,5 @@ I took a leap of faith to quit my previous job as a project engineer, and decide
  <a href="https://www.tableau.com" target="_blank" rel="noreferrer"> 
    <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="tableau" width="40" height="35"/> </a>
   <a href="https://hadoop.apache.org" target="_blank" rel="noreferrer"> 
-   <img src="https://hadoop.apache.org/hadoop-logo.jpg" alt="tableau" width="40" height="35"/> </a>
+   <img src="https://logowik.com/content/uploads/images/hadoop7135.jpg" alt="tableau" width="40" height="35"/> </a>
 </p>
