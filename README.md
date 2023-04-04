@@ -1,9 +1,9 @@
 <h1 align="left">Hi Everyone 👋, I'm Yong Sin</h1>
 
-## Data scientist | Data analyst 
+## Data Engineer 
 I took a leap of faith to quit my previous job as a project engineer, and decided to be change I want to be. I took a 9 weeks intensive bootcamp by Le Wagon, and now I am an aspiring data scientist. I do believe with my current skillset coupled with my past knowledge, I'll be giving a greater impact to our society! 
 
-- 🔭 I’ve just finished a Tableau, Hadoop & MongoDB short course, currently doing my 3rd Kaggle Challenge.
+- 🔭 I’ve just finished a currently learning Microsoft Azure Data Factory usage and application for Data Engineer.
 
 - 📫 Please do not hesitate to contact me **yongsin91@hotmail.com** if there's anything that we could discuss on.
 
