@@ -3,11 +3,9 @@
 ## Data Engineer 
 I took a leap of faith to quit my previous job as a project engineer, and decided to be change I want to be. I took a 9 weeks intensive bootcamp by Le Wagon, and now I am an aspiring data scientist. I do believe with my current skillset coupled with my past knowledge, I'll be giving a greater impact to our society! 
 
-- 🔭 I’ve just finished a currently learning Microsoft Azure Data Factory usage and application for Data Engineer.
-
 - 📫 Please do not hesitate to contact me **yongsin91@hotmail.com** if there's anything that we could discuss on.
 
-- 📄 If you're interested to know more about my experiences, please refer to [linkedin.com/in/yongsin91](http://www.linkedin.com/in/yongsin91) or [troopl.com/yongsin91](http://www.troopl.com/yongsin91)
+- 📄 If you're interested to know more about my experiences, please refer to [linkedin.com/in/yongsin91](http://www.linkedin.com/in/yongsin91).
 
 ## Completed Project  
 [Fightdet - Autonomous Violence Detection Model](../../../../Chewgithub/Fightdet)  
