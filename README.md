@@ -11,7 +11,6 @@ I took a leap of faith to quit my previous job as a project engineer, and decide
 [Fightdet - Autonomous Violence Detection Model](../../../../Chewgithub/Fightdet)  
 - This study is inspired by the works of Cheng, Ming (Github) and Cai, Kunjing and Li, Ming's work in RWF-2000: An Open Large Scale Video Database in 2019. Further exploration based on their study is conducted by testing on several different models, with different channels and optimizers. The goal of this project is to build a feasible model and deploy it into production.  
 - This model is designed intentionally to help out for flagging violence activity in CCTV. It is able to reach **84% accuracy** with **5 second processing time**.  
-- The sample model website can be accessed through this link ([Fightdet Sample Interface](https://fightdet-app-gf34ldcmyq-de.a.run.app/))
 
 [NYC Taxi Fare Prediction Challenge](https://github.com/yongsin91/TaxiFareModel)  
 - This project is an attempt to build a complete package on predicting the New York Taxi Fare (inclusive of tolls), based on the [Kaggle Challenge](https://www.kaggle.com/competitions/new-york-city-taxi-fare-prediction). This is a playground competition, hosted in partnership with Google Cloud and Coursera. While basic estimate based on just the distance between the two points will result in an RMSE of $5-$8, depending on the model used.  
